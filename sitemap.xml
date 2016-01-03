@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://iminit.github.io/octopress/blog/2016/01/01/2016/</loc>
+    <lastmod>2016-01-01T22:32:44+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://iminit.github.io/octopress/404.html</loc>
+  </url>
+  <url>
+    <loc>http://iminit.github.io/octopress/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://iminit.github.io/octopress/</loc>
+  </url>
+  <url>
+    <loc>http://iminit.github.io/octopress/happy-new-year/</loc>
+  </url>
+  <url>
+    <loc>http://iminit.github.io/octopress/aboutme/</loc>
+  </url>
+</urlset>

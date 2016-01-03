@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[iminit@github]]></title>
+  <link href="http://iminit.github.io/octopress/atom.xml" rel="self"/>
+  <link href="http://iminit.github.io/octopress/"/>
+  <updated>2016-01-03T15:42:09+08:00</updated>
+  <id>http://iminit.github.io/octopress/</id>
+  <author>
+    <name><![CDATA[iminit]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year, 2016.]]></title>
+    <link href="http://iminit.github.io/octopress/blog/2016/01/01/2016/"/>
+    <updated>2016-01-01T22:32:44+08:00</updated>
+    <id>http://iminit.github.io/octopress/blog/2016/01/01/2016</id>
+    <content type="html"><![CDATA[<h2>May you a good year. <a href="http://iminit.github.io">iminit@github</a></h2>
+
+<p><img src="http://iminit.github.io/octopress/images/201601/2016.png" alt="image" /></p>
+
+<p><video width='640' height='320' preload='metadata' controls poster='http://iminit.github.io/octopress/images/201601/2016mp4.png'><source src='http://iminit.github.io/octopress/images/201601/2016.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>
+</span><span class='line'>public static void mian（String[] args）{
+</span><span class='line'>  System.out.println("Happy New Year!");
+</span><span class='line'>}
+</span><span class='line'>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>
